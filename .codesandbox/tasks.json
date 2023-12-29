@@ -5,7 +5,7 @@
       "name": "start",
       "command": "npm run dev",
       "runAtStart": true,
-      "preview": { "port": 1234 }
+      "preview": { "port": 5173 }
     },
     "build": { "name": "build", "command": "npm run build", "runAtStart": false }
   }
